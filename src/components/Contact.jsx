@@ -27,7 +27,7 @@ export default function Contact() {
             userSelect: "text"
           }}
         >
-          24cd010.apoorvaraman@adishankara.ac.in
+          apoorvaramans@gmail.com
         </span>{" "}
         ·{" "}
         <a
