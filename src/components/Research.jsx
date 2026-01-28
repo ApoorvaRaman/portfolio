@@ -19,7 +19,7 @@ export default function Research() {
         and designing systems that surface hidden failure modes.
       </p>
       <img
-        src="/images/research-certificate.jpg"
+        src="/images/research-certificate.pdf"
         alt="Author certificate for CISCom 2025 research paper"
         style={{
           marginTop: "2rem",
