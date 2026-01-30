@@ -18,15 +18,18 @@ export default function Research() {
         This work reflects my interest in model reliability, evaluation rigor,
         and designing systems that surface hidden failure modes.
       </p>
-      <img
-        src="/images/research-certificate.pdf"
-        alt="Author certificate for CISCom 2025 research paper"
+      <a
+        href="/images/research-certificate.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="accent"
         style={{
-          marginTop: "2rem",
-          maxWidth: "100%",
-          borderRadius: "8px"
+          display: "inline-block",
+          marginTop: "1.5rem"
         }}
-      />
+      >
+        View author certificate →
+      </a>
     </Section>
   );
 }
